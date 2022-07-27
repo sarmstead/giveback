@@ -32,7 +32,7 @@ Stark Intelligence is building a new feature for Tortuga. The AI will listen for
 ## Technical Questions (what is your technical knowledge?)
 
 1. Explain the difference between an implicit function and an explicit function in JavaScript.  
-   Answer: Difference in return statements.
+   _Answer: Difference in return statements._
 1. Define MVC.  
    _Answer: Model-View-Controller. In this framework, logic is separated into distinct focus areas. For example, code for the UI exists within the View and code for the database exists within the Model._
 1. When might you use `componentDidMount` in a React component?  
