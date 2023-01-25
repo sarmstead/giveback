@@ -1,18 +1,22 @@
-# Interview 1
+# Stark Intelligence
 
 **Company:** Stark Intelligence, Inc.
 
 **Company Description:** Stark Intelligence, not to be confused with Iron Man’s empire, is focused on providing superior artificial intelligence solutions to classified governmental agencies.
 
-**Job:** Full Stack Software Engineer
+**Job:** Software Engineer
 
 **Job Description:** Stark Intelligence is looking for a full stack software engineer to add exciting new features to Tortuga, a proprietary AI software for reptilian sentience.
+
+## Candidate Questions (tell me about yourself)
+1. Tell me about yourself and what brings you to Stark Intelligence.
+1. We're an AI company. So, curious, would you still code if AI can do the job for you?
 
 ## Technical Questions (what is your technical knowledge?)
 
 1. Explain some ways to store a collection of data in JavaScript?
   
-   _Answer: There are multiple ways to store a collection of data in JavaScript. An object is used to store key-value pairs. An array is used to store lists of data in a particular order. At a higher level, one could also use classes to store, mutate, and delete data._
+   _Answer: There are multiple ways to store a collection of data in JavaScript. An object is used to store key-value pairs. An array is used to store lists of data in a particular order. One could also use classes to store, mutate, and delete data. And, at a primitive level, variables store mutable and immutable data._
 
 1. What is a `has-many` relationship? Give an example.  
    
@@ -24,21 +28,21 @@
 
 Stark Intelligence is building a new feature for Tortuga. The AI will listen for a phrase and say it back in reverse. Write a function that takes in a phrase and reverses it, such that 'I love apples' becomes 'apples love I'.
 
-# Interview 2
+# StreamBean, LLC.
 
 **Company:** StreamBean, LLC.
 
 **Company Description:** StreamBean is the global leader of combined streaming. Finally, all your favorite streaming services in one place!
 
-**Job:** Full Stack Software Engineer
+**Job:** Software Engineer
 
-**Job Description:** StreamBean is looking for a full stack software engineer to add exciting new features to its Stream Bean web app.
+**Job Description:** StreamBean is looking for a full stack software engineer to add exciting new features to its StreamBean web app.
+
+## Candidate Questions (tell me about yourself)
+1. Tell me about yourself and what brings you to StreamBean.
+1. Why do you want to be a software engineer at StreamBean? 
 
 ## Technical Questions (what is your technical knowledge?)
-
-1. Explain the difference between an implicit function and an explicit function in JavaScript.  
-   
-   _Answer: Difference in return statements._
 
 1. Define MVC.  
    
